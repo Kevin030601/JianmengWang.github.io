@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "kevin030601"
+title                    : "Kevin030601"
 title_separator          : "-"
-name                     : &name "JianmengWang"
+name                     : &name "Kevin030601"
 description              : &description "personal description"
-url                      : https://JianmengWang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Kevin030601.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JianmengWang/JianmengWang.github.io"
+repository               : "Kevin030601/Kevin030601.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
